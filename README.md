@@ -1,5 +1,7 @@
 
 ![roadmap](https://raw.github.com/mmtmn/the-language-of-life/main/roadmap.png)
+
+
 you are cells your muscles organs skin
 
 and hair they are in your blood and in
@@ -496,101 +498,4 @@ you look closer and if you have the
 
 knowledge to understand it to help you
 
-with that we've created a series of
-
-lessons to take your scientific
-
-knowledge to the next level made in
-
-collaboration with our friends at
-
-brilliant.org these lessons give you a
-
-deeper understanding of the topics from
-
-our most popular videos from rabies and
-
-mammalian metabolism to climate science
-
-and black holes
-
-brilliant is an Interactive Learning
-
-tool that makes maths science and
-
-computer science accessible with a
-
-Hands-On approach because we know that
-
-to really learn something you've got to
-
-do it
-
-think of each lesson as a one-on-one
-
-tutoring version of a cosgazard video
-
-brilliant has thousands of other lessons
-
-to explore as well from maths-based
-
-topics like algebra and probability to
-
-the concepts behind algorithms and
-
-artificial intelligence if you liked the
-
-biology discussed in this video
-
-Brilliance course on computational
-
-biology teaches you many important key
-
-Concepts you'll learn about DNA
-
-instructions RNA and protein folding
-
-then learn how those concepts are used
-
-to tackle modern challenges like genome
-
-sequencing and human health to get
-
-Hands-On with cutzark lessons and
-
-explore everything Brilliance has to
-
-offer you can start your free 30-day
-
-trial by signing up at brilliant.org
-
-nutshell there's even an extra perk for
-
-cuts out viewers the first 200 people to
-
-use the link get 20 off an annual
-
-membership once their trial ends we love
-
-seeing how the gears interlock with our
-
-search brilliant gives you the tools to
-
-understand how everything fits together
-
-the story of the human cell continues
-
-with our human cell poster a visually
-
-stunning Deep dive into the intricate
-
-workings of the smallest unit of life
-
-like all the sciency things in our shop
-
-it's designed with love and produce with
-
-Care by us here at kodzaks
-
-[Music]
-
+with that 
