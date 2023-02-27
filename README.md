@@ -1,1 +1,2 @@
-![roadmap]([https://github.com/mmtmn/The-Language-of-Life/blob/main/roadmap.png])
+
+![roadmap](https://raw.github.com/mmtmn/the-language-of-life/main/roadmap.png)
