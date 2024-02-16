@@ -1,5 +1,6 @@
 
 ![roadmap](https://raw.github.com/mmtmn/the-language-of-life/main/roadmap.png)
+image correction: the last panel is suppose to say speech.
 
 
 you are cells your muscles organs skin
